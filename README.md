@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Deployed At: www.expensetrackerbymustafa.surge.sh
+Deployed At: https://master--charming-dolphin-c01a10.netlify.app/
 
 In the project directory, you can run:
 
